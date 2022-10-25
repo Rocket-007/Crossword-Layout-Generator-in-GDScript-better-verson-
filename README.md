@@ -43,7 +43,7 @@ func _ready():
 
 #	var start_full = float(OS.get_unix_time())
   
-#	var layout = Crossword.new(13, 13, '-', 5000, word_list)
+	var layout = Crossword.new(13, 13, '-', 5000, word_list)
 	layout.compute_crossword(2)
 	print (layout.word_bank())
 	print (layout.solution())
