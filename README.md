@@ -1,5 +1,11 @@
 # Crossword-Layout-Generator-in-GDScript-better-verson-
-This is a port of a program written in python. Given a list of words, this program arranges them into a crossword grid?
+
+
+
+## This is port on [bryanhelmig's](https://github.com/jeremy886/crossword_helmig) program written in python. 
+
+Given a list of words, this program arranges them into a crossword grid  
+and also provides useful methods (yes uses classes) to retrieve and manipulate the data.
 
 
 ### input 
@@ -9,7 +15,7 @@ This is a port of a program written in python. Given a list of words, this progr
 
 
 
-One can visualize the output as follows:
+### One can visualize the output as follows:
 
 NOTE  (it is different from the grid output cause at the moment  
 it is set to generate a random layout for the same input on each start up)
