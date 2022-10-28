@@ -75,5 +75,5 @@ new_coord_list.shuffle() #cause why not?
 randomize() #dont remove vertical() % (2-0) + 0
 
 # PS. I wasn't really sure where the randomizing was coming from so
-# to be save, I included those others
+# to be safe, I included those extra comments :3
 ```
