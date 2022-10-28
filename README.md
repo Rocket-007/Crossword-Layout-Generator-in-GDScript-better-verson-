@@ -57,3 +57,23 @@ func _ready():
 #	var end_full = float(OS.get_unix_time())
 #	print ("time: ", end_full - start_full)
 ...
+```
+**Step 2:** 
+```
+# to prevent the randomized grid
+# comment out the following code
+
+
+
+# line 112
+temp_list.shuffle()
+
+#line 192
+new_coord_list.shuffle() #cause why not?
+
+#line 209
+randomize() #dont remove vertical() % (2-0) + 0
+
+# PS. I wasn't really sure where the randomizing was coming from so
+# to be save, I included those others
+```
