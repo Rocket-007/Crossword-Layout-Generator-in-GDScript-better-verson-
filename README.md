@@ -65,8 +65,7 @@ func _ready():
 
 
 
-# line 112
-temp_list.shuffle()
+
 
 #line 192
 new_coord_list.shuffle() #cause why not?
@@ -74,6 +73,6 @@ new_coord_list.shuffle() #cause why not?
 #line 209
 randomize() #dont remove vertical() % (2-0) + 0
 
-# PS. I wasn't really sure where the randomizing was coming from so
+# PS. I wasn't really 100% sure where the randomizing was coming from so
 # to be safe, I included those extra comments :3
 ```
