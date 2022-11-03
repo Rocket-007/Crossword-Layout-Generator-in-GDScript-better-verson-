@@ -1,6 +1,6 @@
 # Crossword-Layout-Generator-in-GDScript-better-verson-
 
-
+### I have a [video on this project](https://m.youtube.com/watch?v=zEfwmYxQMeI), be sure to check it out
 
 ## This is port on [bryanhelmig's](https://github.com/jeremy886/crossword_helmig) program written in python. 
 
